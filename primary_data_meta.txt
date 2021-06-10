@@ -38,7 +38,7 @@
 								two values=min max, one value=mean
    2. cap-shape (n):            bell=b, conical=c, convex=x, flat=f,
                                 sunken=s, spherical=p, others=o
-   3. cap-surface (n):          fibrous=i, grooves=g, scaly=y, smooth=s,
+   3. cap-surface (n):          fibrous=i, grooves=g, scaly=y, smooth=s, dry=d,
 								shiny=h, leathery=l, silky=k, sticky=t,
 								wrinkled=w, fleshy=e
    4. cap-color (n):            brown=n, buff=b, gray=g, green=r, pink=p,
